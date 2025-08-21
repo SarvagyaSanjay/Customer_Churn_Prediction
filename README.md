@@ -1,5 +1,4 @@
 # Customer Churn Prediction 📉
-![Uploading image.png…]()
 
 ## Business Problem Overview 🎯
 
