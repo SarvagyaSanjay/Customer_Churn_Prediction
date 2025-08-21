@@ -1,4 +1,5 @@
 # Customer Churn Prediction 📉
+![]WORKFLOW(C:\Users\SARVAGYA SANJAY\Desktop\Placement2025Aug\PROJECTS.png)
 
 ## Business Problem Overview 🎯
 
