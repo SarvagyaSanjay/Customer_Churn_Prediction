@@ -54,10 +54,12 @@ This project builds an **AI-driven churn prediction system** to identify high-va
 
 ```mermaid
 flowchart TD
-    A[📥 Data Collection] --> B[🧹 Data Cleaning & Preprocessing]
-    B --> C[📊 Feature Engineering]
-    C --> D[🎯 Define High-Value Customers]
-    D --> E[🏷 Churn Tagging]
-    E --> F[⚙️ Model Training (Logistic, RF, XGBoost)]
-    F --> G[📉 Model Evaluation]
-    G --> H[🚀 Deployment & Insights for Retention Teams]
+    A[📂 Load Data] --> B[🧹 Data Cleaning & Preprocessing]
+    B --> C[📊 Exploratory Data Analysis]
+    C --> D[⚙️ Feature Engineering]
+    D --> E[📉 PCA for Dimensionality Reduction]
+    E --> F[🤖 Model Training (Logistic, RF, XGBoost)]
+    F --> G[📈 Model Evaluation (ROC, Recall, AUC)]
+    G --> H[🔍 Feature Importance & Insights]
+    H --> I[💡 Business Recommendations]
+
