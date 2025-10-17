@@ -1,10 +1,8 @@
 # Customer Churn Prediction 📉
-<img width="1060" height="438" alt="image" src="https://github.com/user-attachments/assets/c00458be-3960-493e-af1b-dae9c9a6cacb" />
-
 <p align="center">
 	<img src="workflow.png" alt="Workflow" width="500"/>
 </p>
-
+<img width="1060" height="438" alt="image" src="https://github.com/user-attachments/assets/c00458be-3960-493e-af1b-dae9c9a6cacb" />
 ## Business Problem Overview 🎯
 
 In the highly competitive telecom industry, providers face an average annual churn rate of 15-25%. Acquiring a new customer costs 5-10 times more than retaining an existing one, making **customer retention** a top priority. For many operators, retaining high-profitability customers is the number one business goal.
