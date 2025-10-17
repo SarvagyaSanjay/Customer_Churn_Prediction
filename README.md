@@ -1,4 +1,5 @@
 # Customer Churn Prediction 📉
+<img width="1060" height="438" alt="image" src="https://github.com/user-attachments/assets/c00458be-3960-493e-af1b-dae9c9a6cacb" />
 
 <p align="center">
 	<img src="workflow.png" alt="Workflow" width="500"/>
